@@ -1,0 +1,10 @@
+name: CuongHoa
+api: 5.0.0
+version: 1.0.0
+main: Noob\CuongHoa
+author: NoobMCGaming
+permissions:
+  cuonghoa.cmd:
+    default: true
+  cuonghoa.give:
+    default: op
